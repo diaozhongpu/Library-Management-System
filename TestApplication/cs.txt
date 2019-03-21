@@ -1,0 +1,42 @@
+C programming review
+1
+-----
+Would you like help with int or bool type?
+-----
+int: 2
+bool: 5
+
+2
+-----
+True or false: Integers can have fractional parts.
+-----
+true: 3
+false: 5
+
+3
+No. Floating-point numbers have fractional parts; integers do not.
+-----
+True or false: Integers can be negative.
+-----
+true: 5
+false: 4
+
+4
+No. You should go back and review the text. 
+-----
+Would you like to quit?
+-----
+yes: 0
+y: 0
+no: 1
+n: 1
+
+5
+Yes. You should go home. 
+-----
+Would you like to quit?
+-----
+yes: 0
+y: 0
+no: 1
+n: 1

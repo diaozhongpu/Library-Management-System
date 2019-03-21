@@ -1,0 +1,60 @@
+This application is to generate database for modified teach.c program. Please follow instructions below.
+Please enter the file's name (filename extension should be included): cs.txt
+Please enter the title of this test: C programming review
+Please enter the 1st question (enter q to quit):Would you like help with int or bool type?
+How many possible answers are there to this question? 2
+Please enter one possible answer to this question:int
+Please enter what number of the question that answer leading to: 2
+What feedback will be displayed?
+Please enter one possible answer to this question:bool
+Please enter what number of the question that answer leading to: 5
+What feedback will be displayed?
+Please enter the 2nd question (enter q to quit):True or false: Integers can have fractional parts.
+How many possible answers are there to this question? 2
+Please enter one possible answer to this question:true
+Please enter what number of the question that answer leading to: 3
+What feedback will be displayed? No. Floating-point numbers have fractional parts; integers do not.
+Please enter one possible answer to this question:false
+Please enter what number of the question that answer leading to: 5
+What feedback will be displayed? Yes. You should go home.
+Please enter the 3rd question (enter q to quit):True or false: Integers can be negative.
+How many possible answers are there to this question? 2
+Please enter one possible answer to this question:true
+Please enter what number of the question that answer leading to: 5
+What feedback will be displayed? Yes. You should go home.
+Please enter one possible answer to this question:false
+Please enter what number of the question that answer leading to: 4
+What feedback will be displayed?
+Please enter the 4th question (enter q to quit):Would you like to quit?
+How many possible answers are there to this question? 4
+Please enter one possible answer to this question:yes
+Please enter what number of the question that answer leading to: 0
+What feedback will be displayed?
+Please enter one possible answer to this question:y
+Please enter what number of the question that answer leading to: 0
+What feedback will be displayed?
+Please enter one possible answer to this question:no
+Please enter what number of the question that answer leading to: 1
+What feedback will be displayed?
+Please enter one possible answer to this question:n
+Please enter what number of the question that answer leading to: 1
+What feedback will be displayed?
+Please enter the 5th question (enter q to quit):Would you like to quit?
+How many possible answers are there to this question? 4
+Please enter one possible answer to this question:yes
+Please enter what number of the question that answer leading to: 0
+What feedback will be displayed?
+Please enter one possible answer to this question:y
+Please enter what number of the question that answer leading to: 0
+What feedback will be displayed?
+Please enter one possible answer to this question:no
+Please enter what number of the question that answer leading to: 1
+What feedback will be displayed?
+Please enter one possible answer to this question:n
+Please enter what number of the question that answer leading to: 1
+What feedback will be displayed?
+Please enter the 6th question (enter q to quit):q
+
+--------------------------------
+Process exited after 170 seconds with return value 0
+Press any key to continue . . .

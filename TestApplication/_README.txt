@@ -1,0 +1,2 @@
+This project contains two parts: one is the Problem 10 of Chapter 16, which uses current libraries and some changes to teach.c have been made. Another is a fresh new application to generate corresponding database. For detailed information, please check the teach.c (which is part of project teach1.dev) and GenDatabase.c. The file sample.c contains a running record of GenDatabase.exe, whose output is cs.txt (can be used as database for the new teach.c).
+DIAO Zhongpu
