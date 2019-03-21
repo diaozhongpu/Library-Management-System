@@ -1,0 +1,66 @@
+C Programming Langauge
+K
+R
+-----
+100001
+C language
+Computer Science
+Reference book
+Program
+-----
+Prentice Hall
+1988
+1
+----------
+The Art and Science of C
+Eric S. Roberts
+-----
+100002
+C language
+Computer Science
+Programming
+-----
+Stanford University Press
+1988
+1
+----------
+CLRS
+K
+R
+-----
+100003
+C language
+Computer Science
+Reference book
+Program
+-----
+Prentice Hall
+1988
+1
+----------
+CSAPP
+S
+R
+-----
+100004
+Computer Basic
+Reference book
+Hardware
+-----
+Prentice Hall
+1988
+1
+----------
+Physics
+K
+R
+-----
+123069
+Natural Science
+Textbook
+Physics
+-----
+Wiley
+2008
+1
+==========
